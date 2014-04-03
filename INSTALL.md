@@ -1,7 +1,7 @@
 Installation
 ============
 
-Installation structions for development enviroments.
+Installation instructions for development enviroments.
 
 Requirements
 ------------

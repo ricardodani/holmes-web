@@ -6,4 +6,4 @@ Web dashboard for holmes.
 Installation
 ------------
 
-See [INSTALL.md](/INSTALL.md) to installation structions for development enviroments.
+See [INSTALL.md](/INSTALL.md) to installation instructions for development enviroments.
